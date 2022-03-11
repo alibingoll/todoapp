@@ -21,7 +21,7 @@ export class TodoComponent{
 
 
   addItems(){
-    console.log("add item")
+    console.log("add item 2")
   }
 
 }
