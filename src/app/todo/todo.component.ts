@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TodoComponent{
 
-  constructor() { }
+  constructor() { } 
   private name: string = "Sadık"
   model: Model = new Model();
  
